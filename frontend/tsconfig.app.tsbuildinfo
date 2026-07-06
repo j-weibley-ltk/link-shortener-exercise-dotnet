@@ -1,0 +1,1 @@
+{"root":["./src/main.ts","./src/api/client.ts","./src/api/links.ts","./src/router/index.ts","./src/types/link.ts","./src/app.vue","./src/components/linkcreateform.vue","./src/components/linklist.vue","./src/components/linkrow.vue","./src/views/dashboardview.vue","./src/views/linkdetailview.vue","./env.d.ts"],"version":"6.0.3"}

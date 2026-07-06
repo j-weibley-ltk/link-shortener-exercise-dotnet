@@ -1,0 +1,25 @@
+{
+  "name": "link-shortener-frontend",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc -b && vite build",
+    "preview": "vite preview",
+    "type-check": "vue-tsc --build"
+  },
+  "dependencies": {
+    "@unovis/ts": "^1.6.7",
+    "@unovis/vue": "^1.6.7",
+    "vue": "^3.5.39",
+    "vue-router": "^5.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^26.0.1",
+    "@vitejs/plugin-vue": "^6.0.7",
+    "typescript": "^6.0.3",
+    "vite": "^8.1.0",
+    "vue-tsc": "^3.3.5"
+  }
+}
